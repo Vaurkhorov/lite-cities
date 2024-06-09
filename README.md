@@ -1,7 +1,4 @@
-# Tauri + Vanilla
+# Lite Cities
+This is a game about fictional, independant city states and diplomacy.
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+I hope to parallely make this game using an existing game engine(probably Twine), and use that experience to develop it here from scratch, eventually separating a standalone game engine.
